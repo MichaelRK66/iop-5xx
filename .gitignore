@@ -21,3 +21,18 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+# DW Dreamweaver added files
+_notes
+_compareTemp
+configs/
+dwsync.xml
+dw_php_codehinting.config
+*.mno
+
+# Atom FTP Remote
+.ftpconfig
+.ftpignore
+*.ftpconfig
+*.ftpignore
+
