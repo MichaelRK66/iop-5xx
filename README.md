@@ -43,13 +43,13 @@ STEP-502.0 | Branch 502-0
 		- WP Bootstrap Starter
 		- Version: 3.0.11 
 		- By Afterimage Designs
-	- added the following pages to the me wp site
-	- welcome to me (nested the following pages below this one)
+	- added following pages to http://iop-5xx.mikekoros.com/welcome-to-me/ WordPress site
+	- welcome to me (nested home, about, experience, education, skills, interests, awards, & contact pages below)
     	- home
         	- copied content from header in to this page
         - about, experience, education, skills, interests, awards, contact
             - copied the content for each of the pages from the static site
-            	- "<p>-from me</p>"added to each page to allow for easy validation of successful API calls
+            	- updated pages with <p>-from me</p> to easily validate successful API calls 
         - no content added to the "welcome to me" page - used as parent for API calls
         
 WEB-240 RWD inside-out project - iop-5xx
