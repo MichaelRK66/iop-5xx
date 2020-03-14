@@ -36,3 +36,35 @@ STEP-501.0 | Branch 501-0
         - content: Awards: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.
 - updated the footer div container p Copyright &copy;  Your Website 2019 to iop-5xx.mikekoros.com 2020.
 
+WEB-240 RWD inside-out project - iop-5xx
+STEP-502.0 | Branch 502-0
+Updates & WP Site Changes
+	- added and activated a new theme
+		- WP Bootstrap Starter
+		- Version: 3.0.11 
+		- By Afterimage Designs
+	- added the following pages to the me wp site
+	- welcome to me (nested the following pages below this one)
+    	- home
+        	- copied content from header in to this page
+        - about, experience, education, skills, interests, awards, contact
+            - copied the content for each of the pages from the static site
+            	- "<p>-from me</p>"added to each page to allow for easy validation of successful API calls
+        - no content added to the "welcome to me" page - used as parent for API calls
+        
+WEB-240 RWD inside-out project - iop-5xx
+STEP-502.0 | Branch 502-0
+README.md file changes
+	- prepended the title to the production site link
+	- added link to GitHub Pages to the top of the content
+- index.html
+	- code changes https://www.diffchecker.com/TIzg6HtF
+		- code compare shows many changes because of nesting code inside main element
+    - removed comments and cleaned code
+    - added main element and nested all section elements inside of it
+    - added link to fontawesome to bottom of boddy for cog in splash screen
+    - added link to app.js to bottom of boddy created in this step
+- app.js
+	- created in this step
+    - code changes https://www.diffchecker.com/44lVfHq9
+          
