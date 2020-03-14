@@ -44,13 +44,12 @@ STEP-502.0 | Branch 502-0
 		- Version: 3.0.11 
 		- By Afterimage Designs
 	- added following pages to http://iop-5xx.mikekoros.com/welcome-to-me/ WordPress site
-	- welcome to me (nested home, about, experience, education, skills, interests, awards, & contact pages below)
+		- welcome to me (nested home, about, experience, education, skills, interests, awards, & contact pages below) "welcome to me" page used as parent for API calls
     	- home
         	- copied content from header in to this page
         - about, experience, education, skills, interests, awards, contact
             - copied the content for each of the pages from the static site
             	- updated pages with (-from me) to easily validate successful API calls 
-        - no content added to the "welcome to me" page - used as parent for API calls
         
 WEB-240 RWD inside-out project - iop-5xx
 STEP-502.0 | Branch 502-0
