@@ -49,7 +49,7 @@ STEP-502.0 | Branch 502-0
         	- copied content from header in to this page
         - about, experience, education, skills, interests, awards, contact
             - copied the content for each of the pages from the static site
-            	- updated pages with <p>-from me</p> to easily validate successful API calls 
+            	- updated pages with (-from me) to easily validate successful API calls 
         - no content added to the "welcome to me" page - used as parent for API calls
         
 WEB-240 RWD inside-out project - iop-5xx
