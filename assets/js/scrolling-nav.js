@@ -1,4 +1,4 @@
-(function($) {
+function startScroll() {
   "use strict"; // Start of use strict
 
   // Smooth scrolling using jQuery easing
@@ -8,7 +8,7 @@
       target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
       if (target.length) {
         $('html, body').animate({
-          scrollTop: (target.offset().top - 56)
+          scrollTop: (target.offset().top - 54)
         }, 1000, "easeInOutExpo");
         return false;
       }
@@ -23,7 +23,7 @@
   // Activate scrollspy to add active class to navbar items on scroll
   $('body').scrollspy({
     target: '#mainNav',
-    offset: 56
+    offset: 54
   });
 
-})(jQuery); // End of use strict
+}; // End of use strict
